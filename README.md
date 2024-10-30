@@ -1,4 +1,2 @@
 # Card-Chance
-Card Chance é um site que auxilia no ensino de probabilidade para alunos do Ensino Fundamental I.
-
-teste commit 
+Card Chance é um site desenvolvido e pensado por alunos universitários para auxiliar no aprendizado de probabilidade para crianças e jovens de maneira lúdica, com apresentação de um exemplo prático e explicação básica.
