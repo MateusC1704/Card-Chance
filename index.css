@@ -4,4 +4,9 @@ margin: 15px;
 font-color: #000000;
 font-family: Arial, sans-serif;
 text-align: left;
+font-size: 20px;
+}
+
+.centralizar{
+    text-align: center;
 }
