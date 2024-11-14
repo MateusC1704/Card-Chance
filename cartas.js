@@ -19,8 +19,6 @@ var txtalt = [
 function sortear(){
     var numero = Math.floor((Math.random()*52) + 1);
 
-    console.log("numero = ",numero);
-
     if (numero==1) {
         document.images[1].src = cartas[0];
         document.images[1].alt = txtalt[0];
